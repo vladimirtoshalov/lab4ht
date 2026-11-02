@@ -1,4 +1,5 @@
-<img width="970" height="154" alt="image" src="https://github.com/user-attachments/assets/35b9dc11-2ce9-4fb2-a07c-fe53fc63c362" /><img width="662" height="653" alt="image" src="https://github.com/user-attachments/assets/6a89a98c-aeb9-4f88-8aa9-41a9376179b9" />
+
+<img width="662" height="653" alt="image" src="https://github.com/user-attachments/assets/6a89a98c-aeb9-4f88-8aa9-41a9376179b9" />
 
 # Задача 20. Три кристалла
 
