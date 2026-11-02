@@ -1,4 +1,4 @@
-<img width="662" height="653" alt="image" src="https://github.com/user-attachments/assets/6a89a98c-aeb9-4f88-8aa9-41a9376179b9" />
+<img width="970" height="154" alt="image" src="https://github.com/user-attachments/assets/35b9dc11-2ce9-4fb2-a07c-fe53fc63c362" /><img width="662" height="653" alt="image" src="https://github.com/user-attachments/assets/6a89a98c-aeb9-4f88-8aa9-41a9376179b9" />
 
 # Задача 20. Три кристалла
 
@@ -13,5 +13,12 @@
 
 Итоговое логическое условие для открытия портала требует одновременного выполнения всех трёх условий:
 `a % 3 == 0 && b % 3 == 0 && c % 3 == 0`
+##3. Работа программы
 
+<img width="970" height="154" alt="image" src="https://github.com/user-attachments/assets/b6118046-766f-43cf-9281-a4725fa154a3" />
 
+<img width="970" height="151" alt="image" src="https://github.com/user-attachments/assets/2592450e-78bd-450b-84fd-d2d6ed866868" />
+
+## 4. Информация о разработчике
+
+Тощалов Владимир Кириллович, группа бОТИ-261
